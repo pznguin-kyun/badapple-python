@@ -2,7 +2,6 @@
 Bad Apple in your terminal with Python
 
 # **Demo**
-https://github.com/p3nguin-kun/badapple-python/assets/123321507/e9d8ce08-ce64-40f5-9ee0-6b688929887c
 
 https://github.com/p3nguin-kun/badapple-python/assets/123321507/49dbd834-c495-4c5e-b24b-3495299ee7c9
 
